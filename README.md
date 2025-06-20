@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamangzed" alt="mamangzed" /></a> </p>
 
-- 📫 How to reach me **wandahadissuara@gmail.com**
+- 📫 How to reach me **wanda@scriptin.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
