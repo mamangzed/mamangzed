@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamangzed&show_icons=true&locale=en" alt="mamangzed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamangzed&" alt="mamangzed" /></p>
+<a href="https://gitroll.io/profile/uAhWmGrWvgKfJfwf9D18icsusB9z1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAhWmGrWvgKfJfwf9D18icsusB9z1?theme=light" alt="GitRoll Profile Badge"/></a>
